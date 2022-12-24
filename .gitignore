@@ -1,0 +1,6 @@
+result*
+.direnv
+
+material/**/*
+mkdocs.yml
+docs/**/*
