@@ -26,7 +26,7 @@
 
 let
   pname = "mkdocs-material-insiders";
-  version = "8.5.11-insiders-4.27.0";
+  version = "9.1.14-insiders-4.35.1";
 in
   buildPythonPackage rec {
     inherit pname;
